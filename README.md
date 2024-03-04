@@ -1,3 +1,3 @@
-Live at https://zhaobn.github.io
 
-Template from <https://github.com/jonbarron/website>
+
+Template from <https://github.com/jonbarron/website> <https://zhaobn.github.io>
