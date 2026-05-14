@@ -74,6 +74,10 @@ a:hover {
   text-decoration: none;
 }
 
+a.coauthor {
+  color: #000;
+}
+
 body,
 td,
 th,
