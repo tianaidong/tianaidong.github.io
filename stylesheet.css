@@ -135,6 +135,22 @@ span.highlight {
 }
 
 /* Site navigation (Home / Research / Community) */
+.paper-btn {
+  display: inline-block;
+  padding: 2px 8px;
+  border: 1px solid #1772d0;
+  border-radius: 4px;
+  color: #1772d0;
+  font-size: 13px;
+  margin-top: 4px;
+  text-decoration: none;
+}
+
+.paper-btn:hover {
+  color: #f09228;
+  border-color: #f09228;
+}
+
 .site-nav {
   text-align: center;
   padding: 12px 0;
